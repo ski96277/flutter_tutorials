@@ -16,8 +16,33 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.red[600],
       ),
       body: Center(
-          child:Image.asset('images/9.jpg')
-      ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              RaisedButton(
+                onPressed: (){
+                  debugPrint('RaisedButton added');
+                },
+                child: Text("data"),
+              ),
+              SizedBox(height: 10,),
+              RaisedButton.icon(
+                  onPressed: () {
+                    debugPrint("icon button added..");
+                  },
+                  icon: Icon(Icons.settings),
+                  label: Text("settings"),
+              ),
+              SizedBox(height: 10,),
+              IconButton(
+                onPressed: (){
+                  debugPrint("icon Btn click");
+                },
+                icon: Icon(Icons.add),
+              )
+            ],
+          )),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.red[600],
         onPressed: () {
