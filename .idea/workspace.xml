@@ -10,13 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f9effa-00b6-4fd5-ac48-15486af5218e" name="Default Changelist" comment="Raised Button, icon button,raised.icon button">
+    <list default="true" id="c2f9effa-00b6-4fd5-ac48-15486af5218e" name="Default Changelist" comment="Rows">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Class_3_Button_&amp;_Icons" />
+        <entry key="$PROJECT_DIR$" value="Class_4_Raws" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614012039102</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Rows">
+      <created>1614018874288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614018874288</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +111,8 @@
     <MESSAGE value="appbar text center. custom font family added. floatingButton added and set on click." />
     <MESSAGE value="asset image show" />
     <MESSAGE value="Raised Button, icon button,raised.icon button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Raised Button, icon button,raised.icon button" />
+    <MESSAGE value="Rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rows" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="100" width="1166" height="528" key="DiffContextDialog" timestamp="1614008165133">
@@ -148,9 +151,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="18" key="SettingsEditor/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1614012503788" />
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1614012040513">
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1614018876623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1614012040513" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1614018876623" />
   </component>
 </project>

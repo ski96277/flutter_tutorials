@@ -16,24 +16,27 @@ class MyApp extends StatelessWidget {
         centerTitle: true,
         backgroundColor: Colors.red[600],
       ),
-      body: Row(
+      body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        crossAxisAlignment: CrossAxisAlignment.center ,
+        crossAxisAlignment: CrossAxisAlignment.stretch ,
         children: [
-          Text("Data TextView",style: TextStyle(backgroundColor: Colors.red),),
-          FlatButton(
-            onPressed: () {
-              print("Flat Btn");
-            },
+          Container(
             color: Colors.red,
-            child: Text("flat button"),
+            padding: EdgeInsets.all(10.0),
+            child: Text("data"),
           ),
           Container(
-            padding: EdgeInsets.all(10.0),
-            color: Colors.green,
-            child: Text("Container"),
-          )
+            color: Colors.cyan,
+            padding: EdgeInsets.all(20.0),
+            child: Text("data"),
+          ),
+          Container(
+            color: Colors.pink,
+            padding: EdgeInsets.all(30.0),
+            child: Text("data"),
+          ),
         ],
+
       ),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.red[600],
