@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,34 +16,25 @@ class MyApp extends StatelessWidget {
         centerTitle: true,
         backgroundColor: Colors.red[600],
       ),
-      body: Center(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              RaisedButton(
-                onPressed: (){
-                  debugPrint('RaisedButton added');
-                },
-                child: Text("data"),
-              ),
-              SizedBox(height: 10,),
-              RaisedButton.icon(
-                  onPressed: () {
-                    debugPrint("icon button added..");
-                  },
-                  icon: Icon(Icons.settings),
-                  label: Text("settings"),
-              ),
-              SizedBox(height: 10,),
-              IconButton(
-                onPressed: (){
-                  debugPrint("icon Btn click");
-                },
-                icon: Icon(Icons.add),
-              )
-            ],
-          )),
+      body: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        crossAxisAlignment: CrossAxisAlignment.center ,
+        children: [
+          Text("Data TextView",style: TextStyle(backgroundColor: Colors.red),),
+          FlatButton(
+            onPressed: () {
+              print("Flat Btn");
+            },
+            color: Colors.red,
+            child: Text("flat button"),
+          ),
+          Container(
+            padding: EdgeInsets.all(10.0),
+            color: Colors.green,
+            child: Text("Container"),
+          )
+        ],
+      ),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.red[600],
         onPressed: () {
