@@ -9,24 +9,15 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        home: Scaffold(//adjkhf
+        home: Scaffold(
       appBar: AppBar(
         title: Text("AppBar Text"),
         centerTitle: true,
         backgroundColor: Colors.red[600],
       ),
       body: Center(
-          child: Text(
-        "Imran sk ",
-        style: TextStyle(
-          fontSize: 40.0,
-          fontWeight: FontWeight.bold,
-          letterSpacing: 2.0,
-          color: Colors.red[600],
-          fontFamily: "BalletFont"
-
-        ),
-      )),
+          child:Image.asset('images/9.jpg')
+      ),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.red[600],
         onPressed: () {

@@ -10,7 +10,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f9effa-00b6-4fd5-ac48-15486af5218e" name="Default Changelist" comment="appbar text center. custom font family added. floatingButton added and set on click." />
+    <list default="true" id="c2f9effa-00b6-4fd5-ac48-15486af5218e" name="Default Changelist" comment="appbar text center. custom font family added. floatingButton added and set on click.">
+      <change afterPath="$PROJECT_DIR$/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Screenshot_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +50,14 @@
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Flutter Project\flutter_tutorials\flutter_tutorials\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Flutter Project\flutter_tutorials\flutter_tutorials\fonts" />
     </key>
@@ -85,6 +103,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="appbar text center. custom font family added. floatingButton added and set on click." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1166" height="528" key="DiffContextDialog" timestamp="1614008165133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="DiffContextDialog/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1614008165133" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1613486780584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1613486780584" />
     <state x="549" y="262" key="Github.ShareDialog" timestamp="1613119510743">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -93,22 +119,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="386" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1613119515541" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1613401138954">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1614009195704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1613401138954" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1613401138954">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1614009195704" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1614009195703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1613401138954" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1613401138953">
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1614009195703" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1614009195703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1613401138953" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1613401138954">
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1614009195703" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1614009195703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1613401138954" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728/-1600.-72.1600.860@0.0.1366.728" timestamp="1614009195703" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1613112739607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
